@@ -27,4 +27,5 @@
   <a href="https://github.com/OshanKHZ" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
   <a href="https://www.linkedin.com/in/lucas-lima-oshan" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/oshan.ia" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://lu.ma/user/usr-uLHZifjwG7xztg7" target="_blank"><img alt="Luma" src="https://img.shields.io/badge/Luma-%23FF6154.svg?&style=for-the-badge&logo=luma&logoColor=white" /></a>
 </p>
