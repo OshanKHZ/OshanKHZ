@@ -5,9 +5,9 @@
   <div>
     <h3>🎨 Frontend</h3>
     <p>
-      <img alt="React" src="https://bitbadges.vercel.app/badge/React/45b8d8?logo=react&logoColor=black&scale=md&v=5" />
-      <img alt="Next.js" src="https://bitbadges.vercel.app/badge/Next.js/000000?scale=md&v=3" />
-      <img alt="TypeScript" src="https://bitbadges.vercel.app/badge/TypeScript/007ACC?scale=md&textColor=black&v=3" />
+      <img alt="React" src="https://bitbadges.vercel.app/badge/React/45b8d8?logo=react&logoColor=black&scale=md&v=6" />
+      <img alt="Next.js" src="https://bitbadges.vercel.app/badge/Next.js/000000??logo=next_js&logoColor=white&scale=md&v=3" />
+      <img alt="TypeScript" src="https://bitbadges.vercel.app/badge/TypeScript/007ACC??logo=typescript&logoColor=black&scale=md&textColor=black&v=3" />
       <img alt="Tailwind CSS" src="https://bitbadges.vercel.app/badge/Tailwind%20CSS/06B6D4?logo=tailwind&logoColor=black&scale=md&v=4" />       
       <img alt="shadcn/ui" src="https://bitbadges.vercel.app/badge/shadcn%2Fui/000000?logo=shadcnui&logoColor=white?scale=md&v=4" />
       <img alt="HTML5" src="https://bitbadges.vercel.app/badge/HTML5/E34F26?logo=html&scale=md&v=4" />
