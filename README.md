@@ -7,7 +7,7 @@
     <p>
       <img alt="React" src="https://bitbadges.vercel.app/badge/React/45b8d8?scale=1" />
       <img alt="Next.js" src="https://bitbadges.vercel.app/badge/Next.js/000000?scale=1" />
-      <img alt="TypeScript" src="https://bitbadges.vercel.app/badge/TypeScript/007ACC?scale=1" />
+      <img alt="TypeScript" src="https://bitbadges.vercel.app/badge/TypeScript/007ACC?scale=1&textColor=black" />
       <img alt="Tailwind CSS"
   src="https://bitbadges.vercel.app/badge/Tailwind%20CSS/06B6D4?logo=tailwind&logoColor=black&scale=1" />
       <img alt="shadcn/ui" src="https://bitbadges.vercel.app/badge/shadcn%2Fui/000000?scale=1" />
@@ -28,8 +28,8 @@
   <div>
     <h3>💾 Database & Vector Stores</h3>
     <p>
-      <img alt="SQL" src="https://bitbadges.vercel.app/badge/SQL/4479A1?scale=1" />
-      <img alt="PostgreSQL" src="https://bitbadges.vercel.app/badge/PostgreSQL/336791?scale=1" />
+      <img alt="SQL" src="https://bitbadges.vercel.app/badge/SQL/4479A1?scale=1&textColor=black" />
+      <img alt="PostgreSQL" src="https://bitbadges.vercel.app/badge/PostgreSQL/336791?scale=1&textColor=black" />
       <img alt="Redis" src="https://bitbadges.vercel.app/badge/Redis/DC382D?scale=1" />
     </p>
   </div>
@@ -40,10 +40,11 @@
     <p>
       <img alt="Docker" src="https://bitbadges.vercel.app/badge/Docker/46a2f1?scale=1" />
       <img alt="Portainer" src="https://bitbadges.vercel.app/badge/Portainer/13BEF9?scale=1" />
-      <img alt="Traefik" src="https://bitbadges.vercel.app/badge/Traefik/24A1C1?scale=1" />
-      <img alt="GitHub Actions" src="https://bitbadges.vercel.app/badge/Github%20Actions/2088FF?scale=1" />
-      <img alt="Git" src="https://bitbadges.vercel.app/badge/Git/F05032?scale=1" />
-      <img alt="n8n" src="https://bitbadges.vercel.app/badge/n8n/EA4B71?scale=1" />
+      <img alt="Traefik" src="https://bitbadges.vercel.app/badge/Traefik/24A1C1?scale=1&textColor=black" />
+      <img alt="GitHub Actions"
+  src="https://bitbadges.vercel.app/badge/Github%20Actions/2088FF?scale=1&textColor=black" />
+      <img alt="Git" src="https://bitbadges.vercel.app/badge/Git/F05032?scale=1&textColor=black" />
+      <img alt="n8n" src="https://bitbadges.vercel.app/badge/n8n/EA4B71?scale=1&textColor=black" />
     </p>
   </div>
 
@@ -54,7 +55,8 @@
       <img alt="Claude Code" src="https://bitbadges.vercel.app/badge/Claude%20Code/CC785C?scale=1" />
       <img alt="NPM" src="https://bitbadges.vercel.app/badge/NPM/CB3837?scale=1" />
       <img alt="Prettier" src="https://bitbadges.vercel.app/badge/Prettier/F7B93E?scale=1" />
-      <img alt="Chrome DevTools" src="https://bitbadges.vercel.app/badge/Chrome%20DevTools/4285F4?scale=1" />
+      <img alt="Chrome DevTools"
+  src="https://bitbadges.vercel.app/badge/Chrome%20DevTools/4285F4?scale=1&textColor=black" />
       <img alt="Supabase"
   src="https://bitbadges.vercel.app/badge/Supabase/3ECF8E?logo=supabase&logoColor=black&scale=1" />
     </p>
