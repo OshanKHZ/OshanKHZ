@@ -41,7 +41,7 @@
       <img alt="Portainer" src="https://bitbadges.vercel.app/badge/Portainer/13BEF9?scale=md&v=3" />
       <img alt="Traefik" src="https://bitbadges.vercel.app/badge/Traefik/24A1C1?scale=md&textColor=black&v=3" />
       <img alt="GitHub Actions" src="https://bitbadges.vercel.app/badge/Github%20Actions/2088FF?scale=md&textColor=black&v=3" />
-      <img alt="Git" src="https://bitbadges.vercel.app/badge/Git/F05032?scale=md&textColor=black&v=3" />
+      <img alt="Git" src="https://bitbadges.vercel.app/badge/Git/F05032??logo=git&logoColor=blackscale=md&textColor=black&v=3" />
       <img alt="n8n" src="https://bitbadges.vercel.app/badge/n8n/EA4B71?scale=md&textColor=black&v=3" />
     </p>
   </div>
