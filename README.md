@@ -27,7 +27,6 @@
   <div>
     <h3>💾 Database & Vector Stores</h3>
     <p>
-      <img alt="SQL" src="https://bitbadges.vercel.app/badge/SQL/4479A1?scale=md&textColor=black&v=3" />
       <img alt="PostgreSQL" src="https://bitbadges.vercel.app/badge/PostgreSQL/336791?scale=md&textColor=black&v=3" />
       <img alt="Redis" src="https://bitbadges.vercel.app/badge/Redis/DC382D?logo=redis&scale=md&v=4" />
     </p>
@@ -53,7 +52,6 @@
       <img alt="Claude Code" src="https://bitbadges.vercel.app/badge/Claude%20Code/CC785C?logo=claude-code&logoColor=black&scale=md&v=4" />      
       <img alt="NPM" src="https://bitbadges.vercel.app/badge/NPM/CB3837?scale=md&v=3" />
       <img alt="Prettier" src="https://bitbadges.vercel.app/badge/Prettier/F7B93E?scale=md&v=3" />
-      <img alt="Chrome DevTools" src="https://bitbadges.vercel.app/badge/Chrome%20DevTools/4285F4?scale=md&textColor=black&v=3" />
       <img alt="Supabase" src="https://bitbadges.vercel.app/badge/Supabase/3ECF8E?logo=supabase&logoColor=black&scale=md&v=4" />
     </p>
   </div>
