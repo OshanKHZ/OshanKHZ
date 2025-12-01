@@ -27,7 +27,7 @@
   <div>
     <h3>💾 Database & Vector Stores</h3>
     <p>
-      <img alt="PostgreSQL" src="https://bitbadges.vercel.app/badge/PostgreSQL/336791?scale=md&textColor=black&v=4" />
+      <img alt="PostgreSQL" src="https://bitbadges.vercel.app/badge/PostgreSQL/336791?scale=md&textColor=white&v=4" />
       <img alt="Redis" src="https://bitbadges.vercel.app/badge/Redis/DC382D?logo=redis&scale=md&v=5" />
     </p>
   </div>
