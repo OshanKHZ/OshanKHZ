@@ -2,60 +2,61 @@
   
   <h2>🚀 Check my stack</h2>
   
-  <!-- Frontend -->
   <div>
     <h3>🎨 Frontend</h3>
     <p>
-      <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-      <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-      <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-      <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-      <img alt="shadcn/ui" src="https://img.shields.io/badge/-shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white" />
-      <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img alt="React" src="https://bitbadges.vercel.app/badge/React/45b8d8?scale=1" />
+      <img alt="Next.js" src="https://bitbadges.vercel.app/badge/Next.js/000000?scale=1" />
+      <img alt="TypeScript" src="https://bitbadges.vercel.app/badge/TypeScript/007ACC?scale=1" />
+      <img alt="Tailwind CSS"
+  src="https://bitbadges.vercel.app/badge/Tailwind%20CSS/06B6D4?logo=tailwind&logoColor=black&scale=1" />
+      <img alt="shadcn/ui" src="https://bitbadges.vercel.app/badge/shadcn%2Fui/000000?scale=1" />
+      <img alt="HTML5" src="https://bitbadges.vercel.app/badge/HTML5/E34F26?logo=html&scale=1" />
     </p>
   </div>
-  
+
   <!-- Backend -->
   <div>
     <h3>🚀 Backend</h3>
     <p>
-      <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-      <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img alt="Node.js" src="https://bitbadges.vercel.app/badge/Node.js/43853d?scale=1" />
+      <img alt="Python" src="https://bitbadges.vercel.app/badge/Python/3776AB?logo=python&scale=1" />
     </p>
   </div>
-  
+
   <!-- Database -->
   <div>
     <h3>💾 Database & Vector Stores</h3>
     <p>
-      <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-      <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+      <img alt="SQL" src="https://bitbadges.vercel.app/badge/SQL/4479A1?scale=1" />
+      <img alt="PostgreSQL" src="https://bitbadges.vercel.app/badge/PostgreSQL/336791?scale=1" />
+      <img alt="Redis" src="https://bitbadges.vercel.app/badge/Redis/DC382D?scale=1" />
     </p>
   </div>
-  
+
   <!-- DevOps -->
   <div>
     <h3>🐳 DevOps & Automation</h3>
     <p>
-      <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-      <img alt="Portainer" src="https://img.shields.io/badge/-Portainer-13BEF9?style=flat-square&logo=portainer&logoColor=white" />
-      <img alt="Traefik" src="https://img.shields.io/badge/-Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white" />
-      <img alt="GitHub Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-      <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      <img alt="n8n" src="https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+      <img alt="Docker" src="https://bitbadges.vercel.app/badge/Docker/46a2f1?scale=1" />
+      <img alt="Portainer" src="https://bitbadges.vercel.app/badge/Portainer/13BEF9?scale=1" />
+      <img alt="Traefik" src="https://bitbadges.vercel.app/badge/Traefik/24A1C1?scale=1" />
+      <img alt="GitHub Actions" src="https://bitbadges.vercel.app/badge/Github%20Actions/2088FF?scale=1" />
+      <img alt="Git" src="https://bitbadges.vercel.app/badge/Git/F05032?scale=1" />
+      <img alt="n8n" src="https://bitbadges.vercel.app/badge/n8n/EA4B71?scale=1" />
     </p>
   </div>
-  
+
   <!-- Development Tools -->
   <div>
     <h3>🛠️ Development Tools</h3>
     <p>
-      <img alt="Claude Code" src="https://img.shields.io/badge/-Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white" />
-      <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-      <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-      <img alt="Chrome DevTools" src="https://img.shields.io/badge/-Chrome_DevTools-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
-      <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+      <img alt="Claude Code" src="https://bitbadges.vercel.app/badge/Claude%20Code/CC785C?scale=1" />
+      <img alt="NPM" src="https://bitbadges.vercel.app/badge/NPM/CB3837?scale=1" />
+      <img alt="Prettier" src="https://bitbadges.vercel.app/badge/Prettier/F7B93E?scale=1" />
+      <img alt="Chrome DevTools" src="https://bitbadges.vercel.app/badge/Chrome%20DevTools/4285F4?scale=1" />
+      <img alt="Supabase"
+  src="https://bitbadges.vercel.app/badge/Supabase/3ECF8E?logo=supabase&logoColor=black&scale=1" />
     </p>
   </div>
   
