@@ -3,7 +3,7 @@
   <img src="./assets/my_stack.png" alt="Check My Stack" width="45%" />
   
   <div>
-    <img src="./assets/frontend.png" alt="Frontend" width="30%" />
+    <img src="./assets/frontend.png" alt="Frontend" height="80" />
     <p>
       <img alt="React" src="https://bitbadges.vercel.app/badge/React/45b8d8?logo=react&logoColor=black&scale=sm&v=10" />
       <img alt="Next.js" src="https://bitbadges.vercel.app/badge/Next.js/000000?logo=next_js&logoColor=white&scale=sm&v=12" />
@@ -16,7 +16,7 @@
 
   <!-- Backend -->
   <div>
-    <img src="./assets/backend.png" alt="Backend" width="30%" />
+    <img src="./assets/backend.png" alt="Backend" height="80" />
     <p>
       <img alt="Node.js" src="https://bitbadges.vercel.app/badge/Node.js/7FC728?logo=node_js&logoColor=black&scale=sm&v=5" />
       <img alt="Python" src="https://bitbadges.vercel.app/badge/Python/3776AB?logo=python&scale=sm&v=5" />
@@ -26,7 +26,7 @@
 
   <!-- Database -->
   <div>
-    <img src="./assets/databases.png" alt="Databases" width="35%" />
+    <img src="./assets/databases.png" alt="Databases" height="80" />
     <p>
       <img alt="PostgreSQL" src="https://bitbadges.vercel.app/badge/PostgreSQL/336791?scale=sm&textColor=white&v=5" />
       <img alt="Redis" src="https://bitbadges.vercel.app/badge/Redis/DC382D?logo=redis&scale=sm&v=6" />
@@ -35,7 +35,7 @@
 
   <!-- DevOps -->
   <div>
-    <img src="./assets/devops.png" alt="DevOps" width="25%" />
+    <img src="./assets/devops.png" alt="DevOps" height="80" />
     <p>
       <img alt="Docker" src="https://bitbadges.vercel.app/badge/Docker/46a2f1?logo=docker&scale=sm&v=7" />
       <img alt="Portainer" src="https://bitbadges.vercel.app/badge/Portainer/13BEF9?scale=sm&v=5" />
@@ -47,7 +47,7 @@
 
   <!-- Development Tools -->
   <div>
-    <img src="./assets/tools.png" alt="Dev Tools" width="20%" />
+    <img src="./assets/tools.png" alt="Dev Tools" height="80" />
     <p>
       <img alt="Claude Code" src="https://bitbadges.vercel.app/badge/Claude%20Code/CC785C?logo=claude-code&logoColor=black&scale=sm&v=8" />      
       <img alt="NPM" src="https://bitbadges.vercel.app/badge/NPM/CB3837?logo=npm&logoColor=white&scale=sm&v=5" />
