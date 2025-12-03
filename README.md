@@ -62,13 +62,14 @@
   <img src="./assets/lets_connect.png" alt="Let's Connect" width="55%" />
   <p>
     <a href="https://github.com/OshanKHZ" target="_blank">
-      <img alt="Github" src="https://bitbadges.vercel.app/badge/Github/000000?logo=github&logoColor=white&scale=xs&v=1" />
-    </a> <a href="https://www.linkedin.com/in/lucas-lima-oshan" target="_blank">
-      <img alt="Linkedin" src="https://bitbadges.vercel.app/badge/Linkedin/336791?scale=xs&textColor=black&v=1" />
+      <img alt="Github" src="https://bitbadges.vercel.app/badge/Github/000000?logo=github&logoColor=white&scale=sm&v=1" />
+    </a>
+    <a href="https://www.linkedin.com/in/lucas-lima-oshan" target="_blank">
+      <img alt="Linkedin" src="https://bitbadges.vercel.app/badge/Linkedin/336791?scale=sm&textColor=black&v=1" />
     </a> <a href="https://instagram.com/oshan.ia" target="_blank">
-      <img alt="Instagram" src="https://bitbadges.vercel.app/badge/Instagram/e1306c?scale=xs&textColor=black&v=1" />
+      <img alt="Instagram" src="https://bitbadges.vercel.app/badge/Instagram/e1306c?scale=sm&textColor=black&v=1" />
     </a> <a href="https://lu.ma/user/usr-uLHZifjwG7xztg7" target="_blank">
-      <img alt="Luma" src="https://bitbadges.vercel.app/badge/Luma/1e1e1e?scale=xs&textColor=white&v=1" />
+      <img alt="Luma" src="https://bitbadges.vercel.app/badge/Luma/1e1e1e?scale=sm&textColor=white&v=1" />
     </a>
   </p>
   
