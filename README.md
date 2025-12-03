@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h2>🚀 Check my stack</h2>
+  <img src="./assets/my_stack.png" alt="Check My Stack" width="45%" />
   
   <div>
     <img src="./assets/frontend.png" alt="Frontend" width="30%" />
@@ -26,7 +26,7 @@
 
   <!-- Database -->
   <div>
-    <h3>💾 Database & Vector Stores</h3>
+    <img src="./assets/databases.png" alt="Databases" width="35%" />
     <p>
       <img alt="PostgreSQL" src="https://bitbadges.vercel.app/badge/PostgreSQL/336791?scale=sm&textColor=white&v=5" />
       <img alt="Redis" src="https://bitbadges.vercel.app/badge/Redis/DC382D?logo=redis&scale=sm&v=6" />
@@ -35,7 +35,7 @@
 
   <!-- DevOps -->
   <div>
-    <h3>🐳 DevOps</h3>
+    <img src="./assets/devops.png" alt="DevOps" width="25%" />
     <p>
       <img alt="Docker" src="https://bitbadges.vercel.app/badge/Docker/46a2f1?logo=docker&scale=sm&v=7" />
       <img alt="Portainer" src="https://bitbadges.vercel.app/badge/Portainer/13BEF9?scale=sm&v=5" />
@@ -59,7 +59,7 @@
   
   ---
   
-  <h2>💬 Let's Connect!</h2>
+  <img src="./assets/lets_connect.png" alt="Let's Connect" width="55%" />
   <p>
     <a href="https://github.com/OshanKHZ" target="_blank">
       <img alt="Github" src="https://bitbadges.vercel.app/badge/Github/000000?logo=github&logoColor=white&scale=xs&v=1" />
