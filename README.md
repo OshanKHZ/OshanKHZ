@@ -1,6 +1,8 @@
 <div align="center">
   
-  <img src="./assets/my_stack.png" alt="Check My Stack" width="45%" />
+  <img src="./assets/my_stack.png" alt="Check My Stack" height="120" />
+
+  ---
   
   <div>
     <img src="./assets/frontend.png" alt="Frontend" height="65" />
@@ -59,7 +61,7 @@
   
   ---
   
-  <img src="./assets/lets_connect.png" alt="Let's Connect" width="55%" />
+  <img src="./assets/lets_connect.png" alt="Let's Connect" height="100" />
   <p>
     <a href="https://github.com/OshanKHZ" target="_blank">
       <img alt="Github" src="https://bitbadges.vercel.app/badge/Github/000000?logo=github&logoColor=white&scale=sm&v=1" />
