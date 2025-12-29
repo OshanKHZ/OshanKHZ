@@ -55,7 +55,6 @@
       <img alt="NPM" src="https://bitbadges.vercel.app/badge/NPM/CB3837?logo=npm&logoColor=white&scale=sm&v=5" />
       <img alt="Prettier" src="https://bitbadges.vercel.app/badge/Prettier/F7B93E?scale=sm&v=5" />
       <img alt="Supabase" src="https://bitbadges.vercel.app/badge/Supabase/34b27b?logo=supabase&logoColor=black&scale=sm&v=7" />
-      <img alt="Cursor" src="https://bitbadges.vercel.app/badge/Cursor/000000?logo=cursor&logoColor=white&scale=sm&v=5" />
     </p>
   </div>
   
