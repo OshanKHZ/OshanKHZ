@@ -5,7 +5,6 @@
   ---
   
   <div>
-    <img src="./assets/frontend.png" alt="Frontend" height="65" />
     <p>
       <img alt="React" src="https://bitbadges.vercel.app/badge/React/45b8d8?logo=react&logoColor=black&scale=sm&v=10" />
       <img alt="Next.js" src="https://bitbadges.vercel.app/badge/Next.js/000000?logo=next_js&logoColor=white&scale=sm&v=12" />
@@ -13,44 +12,16 @@
       <img alt="Tailwind CSS" src="https://bitbadges.vercel.app/badge/Tailwind%20CSS/06B6D4?logo=tailwind&logoColor=black&scale=sm&v=7" />       
       <img alt="shadcnui" src="https://bitbadges.vercel.app/badge/shadcn%2Fui/000000?logo=shadcnui&logoColor=white&scale=sm&v=5" />
       <img alt="HTML5" src="https://bitbadges.vercel.app/badge/HTML/E34F26?logo=html&scale=sm&v=5" />
-    </p>
-  </div>
-
-  <!-- Backend -->
-  <div>
-    <img src="./assets/backend.png" alt="Backend" height="65" />
-    <p>
       <img alt="Node.js" src="https://bitbadges.vercel.app/badge/Node.js/7FC728?logo=node_js&logoColor=black&scale=sm&v=5" />
       <img alt="Python" src="https://bitbadges.vercel.app/badge/Python/3776AB?logo=python&scale=sm&v=5" />
       <img alt="n8n" src="https://bitbadges.vercel.app/badge/n8n/EB5175?logo=n8n&logoColor=black&scale=sm&textColor=black&v=5" />
-    </p>
-  </div>
-
-  <!-- Database -->
-  <div>
-    <img src="./assets/databases.png" alt="Databases" height="65" />
-    <p>
       <img alt="PostgreSQL" src="https://bitbadges.vercel.app/badge/PostgreSQL/336791?scale=sm&textColor=white&v=5" />
       <img alt="Redis" src="https://bitbadges.vercel.app/badge/Redis/DC382D?logo=redis&scale=sm&v=6" />
-    </p>
-  </div>
-
-  <!-- DevOps -->
-  <div>
-    <img src="./assets/devops.png" alt="DevOps" height="65" />
-    <p>
       <img alt="Docker" src="https://bitbadges.vercel.app/badge/Docker/46a2f1?logo=docker&scale=sm&v=7" />
       <img alt="Portainer" src="https://bitbadges.vercel.app/badge/Portainer/13BEF9?scale=sm&v=5" />
       <img alt="Traefik" src="https://bitbadges.vercel.app/badge/Traefik/24A1C1?logo=traefik&logoColor=black&scale=sm&textColor=black&v=6" />
       <img alt="GitHub Actions" src="https://bitbadges.vercel.app/badge/Github%20Actions/2088FF?scale=sm&textColor=black&v=6" />
       <img alt="Git" src="https://bitbadges.vercel.app/badge/Git/F05539?logo=git&logoColor=black&scale=sm&textColor=black&v=5" />
-    </p>
-  </div>
-
-  <!-- Development Tools -->
-  <div>
-    <img src="./assets/tools.png" alt="Dev Tools" height="65" />
-    <p>
       <img alt="Claude Code" src="https://bitbadges.vercel.app/badge/Claude%20Code/CC785C?logo=claude-code&logoColor=black&scale=sm&v=8" />      
       <img alt="NPM" src="https://bitbadges.vercel.app/badge/NPM/CB3837?logo=npm&logoColor=white&scale=sm&v=5" />
       <img alt="Prettier" src="https://bitbadges.vercel.app/badge/Prettier/F7B93E?scale=sm&v=5" />
