@@ -23,7 +23,6 @@
       <img alt="GitHub Actions" src="https://bitbadges.vercel.app/badge/Github%20Actions/2088FF?scale=sm&textColor=black&v=6" />
       <img alt="Git" src="https://bitbadges.vercel.app/badge/Git/F05539?logo=git&logoColor=black&scale=sm&textColor=black&v=5" />
       <img alt="Claude Code" src="https://bitbadges.vercel.app/badge/Claude%20Code/CC785C?logo=claude-code&logoColor=black&scale=sm&v=8" />      
-      <img alt="NPM" src="https://bitbadges.vercel.app/badge/NPM/CB3837?logo=npm&logoColor=white&scale=sm&v=5" />
       <img alt="Supabase" src="https://bitbadges.vercel.app/badge/Supabase/34b27b?logo=supabase&logoColor=black&scale=sm&v=7" />
     </p>
   </div>
